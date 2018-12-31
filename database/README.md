@@ -2,11 +2,14 @@
 
 | Col_Name      | DataType      | Constrants  |
 | ------------- |:-------------:| -----------:|
-| Emp_Id        | numeric 		| primary-key |
+| Emp_Id        | numeric 		| primary-key |		
 | Name      	| nvarchar(100) |   not-null  |
 | salary 		| numeric       |    not-null |
-|Address        | nvarchar(250) |	not-null  | 
+|Address        | nvarchar(250) | not-null  | 
 | Designation   | nvarchar(50)  | not-null    |
+| DeptId		|numeric		| Foreign-key |
+
+
 
 1. Find second hightest salary from Employee table.
 2. LEFT OUTER JOIN Vs INNER JOIN
@@ -21,4 +24,4 @@
  	* if table is empty count of records must return 0
     * else count of records =total number of records
 10. Explain FullOuter join and it uses cases.
-11. Write Query in SQL to return     
+11. Write Query to return list of DeptId where no of employee more then 10    
