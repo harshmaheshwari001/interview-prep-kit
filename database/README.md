@@ -9,3 +9,6 @@
 6. How to display top 50 rows? -- (limit 0,50)
 7. How will you remove all duplicate reocrds from a table?   
 8. How can you see all the indexes defined for a table?
+9. Write Query in Oracle/SQL to return count of records 
+..*if table is empty count of records must return 0
+..*else count of records =total number of records
