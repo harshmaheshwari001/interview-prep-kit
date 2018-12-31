@@ -1,5 +1,13 @@
 ### Database and SQL Question
 
+| Col_Name      | DataType      | Constrants  |
+| ------------- |:-------------:| -----------:|
+| Emp_Id        | numeric 		| primary-key |
+| Name      	| nvarchar(100) |   not-null  |
+| salary 		| numeric       |    not-null |
+|Address        | nvarchar(250) |	not-null  | 
+| Designation   | nvarchar(50)  | not-null    |
+
 1. Find second hightest salary from Employee table.
 2. LEFT OUTER JOIN Vs INNER JOIN
 3. What IFNULL() statement is used for in MySQL?
@@ -10,5 +18,7 @@
 7. How will you remove all duplicate reocrds from a table?   
 8. How can you see all the indexes defined for a table?
 9. Write Query in Oracle/SQL to return count of records 
-..*if table is empty count of records must return 0
-..*else count of records =total number of records
+ 	* if table is empty count of records must return 0
+    * else count of records =total number of records
+10. Explain FullOuter join and it uses cases.
+11. Write Query in SQL to return     
