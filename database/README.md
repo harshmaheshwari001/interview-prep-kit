@@ -1,4 +1,4 @@
-###Database and SQL Question
+### Database and SQL Question
 
 1. Find second hightest salary from Employee table.
 2. LEFT OUTER JOIN Vs INNER JOIN
