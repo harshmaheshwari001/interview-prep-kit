@@ -38,6 +38,7 @@
 * How to analyses and Detect Deadlock , What are the best practise to avoid Deadlock.
 
 * Implement Producer and consumer problem using wait,notify and notifyAll.
-* Implement N Producer and M consumer problem using Blocking queue
+* Implement N Producer and M consumer problem using Blocking queue.
+* What is class level locking. How it is different from object locking.
 
 #### Question on JVM & Java Memory Management
