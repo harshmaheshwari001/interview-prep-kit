@@ -8,5 +8,8 @@
 * What is Global window object ?
 * Javascript vs Typescript. State some difference between both.
 * Debugging a function or code in Javascript.
+* JavaScript based performance tunning
+    * https://www.keycdn.com/blog/javascript-performance
+
 
 
