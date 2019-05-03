@@ -5,15 +5,17 @@
 	* Polymorphism
 	* Inheritance
 	* Overloading and overriding
-
+* What are different ways to create Object in java.
+* How new operator works in Java?  What are the steps in Creating object of any Class in java?
+* What is constructor and constructor chaining in Java.	
 * Abstract class vs Interfaces in Detail.
 * Abstract classes vs concrete classes.
 * Why String class is immutable?
 * How subString() of String class works?
 * What is transient/volatile? adv/disadv
-* What are the use of equals() and hashCode()? why do we need to override them?
+* What are the use of equals() and hashCode()? why do we need to override them for Hashing Collections/datastructures?
+* Comparable vs Comparator interface in Java? Can you please give some use case for both
 * Immutable classes in java. Class in Java which are immutable? . Conditions to write immutable classes in java.
-
 * What is serialization? Custom serialization?
 * What is Externalization?
 
@@ -21,6 +23,9 @@
 * Arrays vs ArrayList.
 * Linked list vs ArrayList.
 * How HashMap works internally in java ? How does hashmap solves collison?
+* How LinkedHashMap different then HashMap.
+
+#### Questions on Exception Handling
 
 #### Multi threading
 * Callable vs Runnable Threads ? Give sample code
