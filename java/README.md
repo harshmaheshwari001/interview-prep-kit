@@ -47,3 +47,10 @@
 * What is class level locking. How it is different from object locking.
 
 #### Question on JVM & Java Memory Management
+
+* What are the different memory areas inside JVM.
+* What are different type of ClassLoaders inside JVM.
+* Serial vs Parralel vs G1 garbage collectors.
+* What is bytecode in JAVA.
+* How you will set Max or Min Heap memory parameters in JVM.
+* [Link to JVM Internal](https://www.cubrid.org/blog/understanding-jvm-internals)
