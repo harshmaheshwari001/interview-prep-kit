@@ -11,6 +11,10 @@
 * JavaScript based performance tunning
     * https://www.keycdn.com/blog/javascript-performance
 * Errorhandling and Logging in javascript
+* JavaScript Factory functions vs Constructor functions.
+* Use of this keyword in Javascript
+* ES5 vs ES6 comparison with respect of arrow functions
+* Create dictionary Data-Structure in javascript
 
 
 
