@@ -10,6 +10,7 @@
 * Debugging a function or code in Javascript.
 * JavaScript based performance tunning
     * https://www.keycdn.com/blog/javascript-performance
+* Errorhandling and Logging in javascript
 
 
 
