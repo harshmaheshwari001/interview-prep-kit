@@ -54,4 +54,4 @@
 * What is bytecode in JAVA.
 * How you will set Max or Min Heap memory parameters in JVM.
 * [Link to JVM Internal](https://www.cubrid.org/blog/understanding-jvm-internals)
-* [Java Performance Optimization](java-performance-optimization-20.pdf)
+* [Java Performance Optimization](java-performance-optimization.pdf)
