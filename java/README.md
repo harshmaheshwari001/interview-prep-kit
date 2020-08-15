@@ -53,5 +53,5 @@
 * Serial vs Parralel vs G1 garbage collectors.
 * What is bytecode in JAVA.
 * How you will set Max or Min Heap memory parameters in JVM.
-* [Link to JVM Internal](https://www.cubrid.org/blog/understanding-jvm-internals)
+* [Link to JVM Internal](java-performance-optimization.pdf)
 * [Java Performance Optimization](https://dzone.com/storage/assets/13803795-dzone-refcard-200-java-performance-optimization-20.pdf)
