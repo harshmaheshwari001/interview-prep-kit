@@ -12,3 +12,5 @@
 * Create a BST using Sorted List or Sorted Array.
 * Calculate lenght of the Tree.
 * Calculate height of the Tree.
+### System Design and Object Oriented Design Problems
+* https://dzone.com/articles/21-object-oriented-and-system-design-problems-to-p
